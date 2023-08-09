@@ -1,0 +1,3 @@
+[submodule "random-quote-machine-fcc"]
+	path = random-quote-machine-fcc
+	url = https://github.com/pallab-nandi/random-quote-machine-fcc.git
