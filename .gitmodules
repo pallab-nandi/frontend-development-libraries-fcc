@@ -1,3 +1,9 @@
 [submodule "random-quote-machine-fcc"]
 	path = random-quote-machine-fcc
 	url = https://github.com/pallab-nandi/random-quote-machine-fcc.git
+[submodule "markdown-previewer-fcc"]
+	path = markdown-previewer-fcc
+	url = https://github.com/pallab-nandi/markdown-previewer-fcc.git
+[submodule "drum-machine-fcc"]
+	path = drum-machine-fcc
+	url = https://github.com/pallab-nandi/drum-machine-fcc
