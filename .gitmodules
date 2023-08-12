@@ -10,3 +10,6 @@
 [submodule "javascript-calculator-fcc"]
 	path = javascript-calculator-fcc
 	url = https://github.com/pallab-nandi/javascript-calculator-fcc.git
+[submodule "25-plus-5-Clock-fcc"]
+	path = 25-plus-5-Clock-fcc
+	url = https://github.com/pallab-nandi/25-plus-5-Clock-fcc.git
