@@ -7,3 +7,6 @@
 [submodule "drum-machine-fcc"]
 	path = drum-machine-fcc
 	url = https://github.com/pallab-nandi/drum-machine-fcc
+[submodule "javascript-calculator-fcc"]
+	path = javascript-calculator-fcc
+	url = https://github.com/pallab-nandi/javascript-calculator-fcc.git
